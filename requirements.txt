@@ -1,0 +1,8 @@
+transformers==4.27.0
+sentencepiece
+sklearn
+pythainlp
+torch==2.0.0
+torchvision
+pytorch-cuda==11.7
+nltk
