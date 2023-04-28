@@ -1,11 +1,10 @@
-
-
 # our gitignore
 .vscode
 checkpoints
 .history
 
 /work_dirs
+/checkpoints
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
